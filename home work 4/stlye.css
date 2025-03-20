@@ -1,0 +1,16 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.phone-number {
+    font-size: 18px;
+    font-weight: bold;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.phone-number:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
